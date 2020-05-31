@@ -4,7 +4,7 @@ import tkinter as tk
 root = tk.Tk()
 root.resizable(width=False, height=False)
 root.geometry('250x225')
-root.title('Индекс веса')
+root.title('Индекс веса 1.0')
 
 try:
     root.iconbitmap(r'ves.ico')
